@@ -28,6 +28,6 @@ jobs:
       - name: Slack Notify
         uses: rtCamp/action-slack-notify@v2.1.0
         env:
-          SLACK_MESSAGE: 'Post Content :rocket:'
-          SLACK_TITLE: Post Title
+          SLACK_MESSAGE: 'Deploy Done :rocket:'
+          SLACK_TITLE: MESSAGE
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
