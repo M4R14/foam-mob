@@ -1,3 +1,3 @@
-# Free People คณะประชาชนปลดแอก
+# คณะประชาชนปลดแอก - Free People
 
-- [wikipedia](https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B9%81%E0%B8%AD%E0%B8%81)
+[![facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/FREEPEOPLEth) [![wikipedia](https://img.shields.io/static/v1?label=wikipedia&message=>&color=back)](https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B9%81%E0%B8%AD%E0%B8%81)
