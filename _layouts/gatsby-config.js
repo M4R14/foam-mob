@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/foam-mob`,
   siteMetadata: {
-    title: `Foam`,
+    title: `Foam mob`,
   },
   plugins: [
     {
