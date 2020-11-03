@@ -25,20 +25,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_layouts/public
           
-      - name: Slack Message
-        # You may pin to the exact commit or the version.
-        # uses: someimportantcompany/github-actions-slack-message@0b470c14b39da4260ed9e3f9a4f1298a74ccdefd
-        uses: someimportantcompany/github-actions-slack-message@v1
-        with:
-          # Text to send to Slack, in Slack's "mrkdwn" format - required.
-          text: "deploy done!!"
-          # The colour of the Slack attachment.
-          # color: # optional
-          # A Slack bot token to send messages with - required if `webhook-url` was not provided.
-          #bot-token: # optional
-          # A Slack webhook URL to send messages to - required if `bot-token` was not provided.
-          #webhook-url: # optional
-          # The Slack channel - required if `bot-token` was provided.
-          channel: github
-          # The ID of the existing Slack message to update - only valid if `bot-token` was provided.
-          #message-id: # optional
+      - name: Slack Notify
+        uses: rtCamp/action-slack-notify@v2.1.0
+        env:
+          SLACK_MESSAGE: 'Post Content :rocket:'
+          SLACK_TITLE: Post Title
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
