@@ -1,5 +1,7 @@
 # Foam
 
+[github](https://github.com/M4R14/foam-mob)
+
 👋 Welcome to your new Foam Workspace!
 
 ## Getting started
