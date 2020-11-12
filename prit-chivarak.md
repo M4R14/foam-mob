@@ -1,4 +1,4 @@
-# พริษฐ์ ชิวารักษ์ (เพนกวิน)
+# เพนกวิน - พริษฐ์ ชิวารักษ์ 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C_%E0%B8%8A%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C_%E0%B9%80%E0%B8%9E%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%99_Parit_Chiwarak_Penguin.jpg/440px-%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C_%E0%B8%8A%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C_%E0%B9%80%E0%B8%9E%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%99_Parit_Chiwarak_Penguin.jpg)
 
